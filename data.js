@@ -401,7 +401,7 @@ window.SITE = {
     list: [
       {
         id: "char1",
-        name: "캐릭터 이름",
+        name: "감아림",
         en: "CHARACTER NAME",
         tag: "No.01",
         subtitle: "한 줄 소개가 들어갑니다",
